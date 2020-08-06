@@ -6,4 +6,5 @@ Not sure what's goin in Mr.Robot
 Checking stageing area of git
 checking..
 skiping changing area
-code of merging 
+code of merging
+try to merge
