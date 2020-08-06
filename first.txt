@@ -8,4 +8,5 @@ checking..
 skiping changing area
 try to merge
 code of merging 
-merging file conflit 
+merging file conflit
+i
