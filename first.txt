@@ -7,3 +7,4 @@ Checking stageing area of git
 checking..
 skiping changing area
 code of merging 
+merging file conflit 
