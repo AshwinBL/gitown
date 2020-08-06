@@ -6,6 +6,7 @@ Not sure what's goin in Mr.Robot
 Checking stageing area of git
 checking..
 skiping changing area
+try to merge
 code of merging 
-merging file conflit
 doing for merge changes : ravibranch
+doing some changes in file for merge conflit 
