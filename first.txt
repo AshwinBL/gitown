@@ -9,3 +9,4 @@ skiping changing area
 try to merge
 code of merging 
 merging file conflit 
+doing some changes in file for merge conflit 
