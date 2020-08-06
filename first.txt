@@ -7,4 +7,5 @@ Checking stageing area of git
 checking..
 skiping changing area
 code of merging 
-merging file conflit 
+merging file conflit
+doing for merge changes : ravibranch
