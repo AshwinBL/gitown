@@ -6,5 +6,16 @@ Not sure what's goin in Mr.Robot
 Checking stageing area of git
 checking..
 skiping changing area
+try to merge
 code of merging 
-merging file conflit 
+<<<<<<< HEAD
+doing for merge changes : ravibranch
+doing some changes in file for merge conflit 
+=======
+merging file conflit
+<<<<<<< HEAD
+i
+=======
+doing for merge changes : ravibranch
+>>>>>>> ravibranch
+>>>>>>> a3dedde845e3562fe78c760c56774186139513b0
