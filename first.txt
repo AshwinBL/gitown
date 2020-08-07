@@ -9,4 +9,8 @@ skiping changing area
 try to merge
 code of merging 
 merging file conflit
+<<<<<<< HEAD
 i
+=======
+doing for merge changes : ravibranch
+>>>>>>> ravibranch
